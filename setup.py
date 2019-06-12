@@ -26,8 +26,8 @@ setup(
     version=VERSION,
     description='<@description>',
     long_description=LONG_DESCRIPTION,
-    author='João Atkinson',
-    author_email='joaogustavoamorim@gmail.com',
+    author='João Atkinson, João Victor do Pilar',
+    author_email='joaogustavoamorim@gmail.com, joaovpilar@gmail.com',
     license='MIT',
     packages=find_packages(exclude=("tests", "docs")),
     entry_points={
