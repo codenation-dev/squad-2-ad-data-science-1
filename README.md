@@ -8,6 +8,7 @@ This model is a `type_of_modeling` that `do_something` to solve `this_problem` a
 
 | Role                 | Responsibility         | Full name                | e-mail       |
 | -----                | ----------------       | -----------              | ---------    |
+| Data Scientist       | Author                 | [`Bruno Pinheiro de Oliveira`]            | [`brunopinheiro.net@gmail.com`] |
 | Data Scientist       | Author                 | [`João Atkinson`]            | [`joaogustavoamorim@gmail.com`] |
 | Data Scientist       | Author                 | [`João Victor do Pilar`]            | [`joaovpilar@gmail.com`] |
 | Project Owner        | Co-author              | [`First name Last Name`] | [`e-mail`]   |
